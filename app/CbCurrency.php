@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class cbCurrency extends Model
+class CbCurrency extends Model
 {
     //
     protected $table = 'cb_currency';
